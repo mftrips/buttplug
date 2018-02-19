@@ -1,3 +1,4 @@
 {
-    "root": "./protocol-spec"
+    "root": "./protocol-spec",
+    "plugins": ["mermaid-gb3"]
 }

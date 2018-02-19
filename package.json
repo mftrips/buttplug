@@ -19,9 +19,9 @@
   "devDependencies": {
     "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2",
-    "yarn": "^1.2.1"
+    "yarn": "^1.3.2"
   },
   "dependencies": {
-    "gitbook-plugin-mermaid": "0.0.9"
+    "gitbook-plugin-mermaid": "^0.0.9"
   }
 }

@@ -26,10 +26,10 @@ Once devices are found and selected, we can assume the user will begin interacti
 
 ### Example lifecycle
 
-{% mermaid %}
+```mermaid
 graph TD;
   A-->B;
   A-->C;
   B-->D;
   C-->D;
-{% endmermaid %}
+```

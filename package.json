@@ -20,5 +20,8 @@
     "gitbook": "^3.2.3",
     "gitbook-cli": "^2.3.2",
     "yarn": "^1.2.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-mermaid": "0.0.9"
   }
 }
